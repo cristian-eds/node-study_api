@@ -1,10 +1,10 @@
 {
   "compilerOptions": {
-    "target": "es6",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
-    "module": "commonjs",                                /* Specify what module code is generated. */
+    "target": "es6",                               
+    "module": "commonjs",                                
     "skipLibCheck": true ,
     "outDir": "./dist",
     "strict": true,
-    "esModuleInterop": true                                /* Skip type checking all .d.ts files. */
+    "esModuleInterop": true                                
   }
 }
