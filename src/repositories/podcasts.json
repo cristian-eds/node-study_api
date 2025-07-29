@@ -1,10 +1,22 @@
-{
-    "podcastName": "flow",
-    "episode": "Teste - #319",
-    "videoId": "pQSuQmUS530",
-    "categories": [
-        "saude",
-        "esporte",
-        "bodybuilder"
-    ]
-}
+[
+    {
+        "podcastName": "flow",
+        "episode": "Teste - #319",
+        "videoId": "pQSuQmUS530",
+        "categories": [
+            "saude",
+            "esporte",
+            "bodybuilder"
+        ]
+    },
+    {
+        "podcastName": "Teste",
+        "episode": "Teste - #319",
+        "videoId": "pQSuQmUS530",
+        "categories": [
+            "saude",
+            "esporte",
+            "bodybuilder"
+        ]
+    }
+]
