@@ -1,10 +1,10 @@
-import { FilterPodcast } from "../models/filter-podcast-model";
+import { PodcastTransferModel } from "../models/podcast-transfer-model";
 import { findEpisodes } from "../repositories/podcasts-repository"
 import { StatusCode } from "../utils/status-code";
 
-export const serviceFilterEpisodes = async (url: string | undefined): Promise<FilterPodcast> => {
+export const serviceFilterEpisodes = async (url: string | undefined): Promise<PodcastTransferModel> => {
     
-    let responseFormat: FilterPodcast = {
+    let responseFormat: PodcastTransferModel = {
         statusCode: 0,
         body: []
     }
